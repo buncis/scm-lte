@@ -22,3 +22,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .jvectormap-zoomin{
+  height: 16px;
+  width: 16px;
+ }
+
+ .jvectormap-zoomout{
+  height: 16px;
+  width: 16px;
+}
